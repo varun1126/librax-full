@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Rounded Base Badge -->
+  <rect width="64" height="64" rx="16" fill="#18181b"/>
+  <!-- Left Page -->
+  <path d="M12 17C19 15 26 16.5 30 20V49C26 46 19 45 12 47V17Z" fill="#fafafa" fill-opacity="0.95"/>
+  <!-- Right Page -->
+  <path d="M52 17C45 15 38 16.5 34 20V49C38 46 45 45 52 47V17Z" fill="#e4e4e7" fill-opacity="0.8"/>
+  <!-- Center Spine -->
+  <path d="M32 19.5V50" stroke="#a1a1aa" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- Intellectual Flame / Beacon Spark -->
+  <path d="M32 7L33.6 11.2L38 12.4L34.4 15.4L35.6 19.6L32 17.2L28.4 19.6L29.6 15.4L26 12.4L30.4 11.2L32 7Z" fill="#F59E0B"/>
+</svg>

@@ -1,0 +1,344 @@
+=== SLIDE 1 ===
+￿S￿R￿M￿ ￿I￿N￿S￿T￿I￿T￿U￿T￿\E￿ ￿O￿\ ￿N￿C￿\E￿  ￿A￿N￿D￿ ￿T￿\E￿C￿H￿N￿O￿L￿O￿G￿Y
+
+￿D￿e￿p￿a￿r￿t￿m￿e￿n ￿t￿ ￿o￿f￿ ￿\x￿o￿m￿p￿u￿t ￿e￿r￿ ￿S￿c￿i￿e￿n￿c￿e￿ ￿a￿n￿d￿ ￿E￿n￿g￿i￿n￿e￿e￿r￿i￿n￿g
+
+￿\ ￿ ￿P￿R￿O￿J￿\E￿C￿T￿ ￿P￿R￿\E￿S￿\E￿N￿T ￿A ￿T￿I￿O￿N￿ ￿T￿\E￿M￿P￿L￿A ￿T￿\E
+
+￿[￿J￿A ￿V ￿A ￿ ￿P￿R￿O￿J￿\E￿C￿T￿ ￿/￿ ￿P￿Y￿T￿H￿O￿N￿ ￿P￿R￿O￿J￿\E￿C￿T￿]
+
+￿P￿r ￿o￿j￿e￿c￿t￿ ￿T￿i￿t￿l￿e￿:￿ 
+
+￿S￿t￿u￿d￿e￿n ￿t￿ ￿N￿a￿m￿e￿ ￿:
+
+￿R ￿e￿g￿i￿s ￿t ￿e￿r￿ ￿N￿u￿m￿b￿e￿r￿:￿ 
+
+￿\x￿l￿a￿s￿s￿ ￿&￿ ￿S￿e￿c￿t￿i￿o￿n￿:￿ ￿B￿.￿ ￿T ￿e￿c￿h￿ ￿I￿I￿ ￿Y ￿e￿a￿r￿ ￿–￿ ￿\x￿o￿r ￿e￿ ￿‘￿D ￿’￿ ￿S￿e￿c￿t￿i￿o￿n
+
+￿F ￿a￿c￿u￿l￿t￿y￿ ￿G￿u￿i￿d￿e￿:￿ ￿D￿r ￿.￿ ￿P ￿a￿r￿t￿h￿e￿e￿b￿a￿n￿.￿ ￿N￿,￿ ￿P￿r ￿o￿f ￿e￿s￿s￿o￿r ￿,￿ ￿D￿e￿p ￿t￿.￿ ￿O￿f￿ ￿\x￿S￿E￿.
+
+￿A￿c ￿a￿d￿e￿m￿i￿c￿ ￿Y ￿e￿a￿r￿:￿ ￿J￿u￿l￿y￿ ￿2￿0￿2￿6￿-￿ ￿D￿e￿c￿ ￿2￿0￿2￿7
+
+￿1
+
+
+=== SLIDE 2 ===
+￿P￿R￿O￿J￿\E￿C￿T ￿ ￿O￿V￿\E￿R ￿V￿I￿\E￿W
+
+￿B￿a￿c￿k￿g￿r ￿o￿u￿n￿d￿ ￿o￿f￿ ￿t￿h￿e￿ ￿p￿r ￿o￿j￿e￿c￿t￿ ￿i￿d￿e￿a
+
+￿R ￿e￿a￿l￿-￿w ￿o￿r￿l￿d￿ ￿/￿ ￿a￿c ￿a￿d￿e￿m￿i￿c￿ ￿p￿r ￿o￿b￿l￿e￿m￿ ￿a￿d￿d￿r ￿e￿s￿s￿e￿d
+
+￿S￿h￿o￿r￿t￿ ￿d￿e￿s￿c￿r￿i￿p ￿t￿i￿o￿n￿ ￿o￿f￿ ￿p￿r ￿o￿p￿o￿s￿e￿d￿ ￿s￿o￿l￿u￿t￿i￿o￿n
+
+￿T ￿a￿r ￿g ￿e ￿t￿ ￿u￿s￿e￿r ￿s￿ ￿o￿r￿ ￿a￿p￿p￿l￿i￿c ￿a ￿t￿i￿o￿n￿ ￿a￿r ￿e￿a
+
+￿2
+
+
+=== SLIDE 3 ===
+￿P￿R￿O￿B￿L￿\E￿M￿ ￿S￿T ￿A ￿T￿\E￿M￿\E￿N￿T
+
+￿\x￿l￿e￿a￿r￿l￿y￿ ￿d￿e ￿f￿i￿n￿e￿ ￿t￿h￿e￿ ￿p￿r ￿o￿b￿l￿e￿m
+
+￿E￿x￿p￿l￿a￿i￿n￿ ￿w￿h ￿y￿ ￿t￿h￿e￿ ￿p￿r ￿o￿b￿l￿e￿m￿ ￿i￿s￿ ￿i￿m￿p￿o￿r￿t ￿a￿n ￿t
+
+￿M￿e￿n ￿t￿i￿o￿n￿ ￿l￿i￿m￿i￿t ￿a ￿t￿i￿o￿n￿s￿ ￿o￿f￿ ￿e ￿x￿i￿s ￿t￿i￿n￿g ￿/￿m￿a￿n￿u￿a￿l￿ ￿a￿p￿p￿r ￿o￿a￿c￿h
+
+￿3
+
+
+=== SLIDE 4 ===
+￿P￿R￿O￿J￿\E￿C￿T ￿ ￿O￿B￿J￿\E￿C￿T￿I￿V￿\E￿S
+
+￿M￿a￿i￿n￿ ￿g ￿o￿a￿l￿ ￿o￿f￿ ￿t￿h￿e￿ ￿p￿r ￿o￿j￿e￿c￿t
+
+￿L￿i￿s ￿t￿ ￿3￿ ￿t ￿o￿ ￿5￿ ￿s￿p￿e￿c￿i￿f￿i￿c￿ ￿o￿b￿j￿e￿c￿t￿i￿v ￿e￿s
+
+￿E￿x￿p￿e￿c￿t ￿e￿d￿ ￿f￿i￿n￿a￿l￿ ￿o￿u￿t ￿c ￿o￿m￿e￿ ￿o￿r￿ ￿w ￿o￿r￿k￿i￿n￿g￿ ￿m￿o￿d￿e￿l
+
+￿4
+
+
+=== SLIDE 5 ===
+￿T￿\E￿C￿H￿N￿O￿L￿O￿G￿Y ￿ ￿S￿T ￿A￿C￿K
+
+￿J￿a ￿v ￿a￿ ￿P￿r ￿o￿j￿e￿c￿t￿ ￿-￿ ￿S￿u￿g ￿g ￿e￿s ￿t ￿e￿d￿ ￿I￿t ￿e￿m￿s
+
+￿J￿a ￿v ￿a￿ ￿S￿E￿ ￿/￿ ￿O￿O￿P￿ ￿c ￿o￿n￿c￿e￿p ￿t￿s
+
+￿S ￿w￿i￿n￿g￿ ￿/￿ ￿J￿a ￿v ￿a￿F ￿X￿ ￿o￿r￿ ￿c ￿o￿n￿s￿o￿l￿e￿ ￿U￿I
+
+￿J￿D￿B￿\x￿ ￿+￿ ￿M￿y￿S￿Q￿L￿ ￿i￿f￿ ￿d￿a ￿t ￿a￿b￿a￿s￿e￿ ￿u￿s￿e￿d
+
+￿F￿i￿l￿e￿ ￿h￿a￿n￿d￿l￿i￿n￿g￿ ￿/￿ ￿e ￿x ￿c￿e￿p ￿t￿i￿o￿n￿ ￿h￿a￿n￿d￿l￿i￿n￿g
+
+￿P ￿y ￿t￿h￿o￿n￿ ￿P￿r ￿o￿j￿e￿c￿t￿ ￿-￿ ￿S￿u￿g ￿g ￿e￿s ￿t ￿e￿d￿ ￿I￿t ￿e￿m￿s
+
+￿P ￿y ￿t￿h￿o￿n￿ ￿3￿.￿x
+
+￿P ￿a￿n￿d￿a￿s￿ ￿/￿ ￿N￿u￿m￿P ￿y￿ ￿/￿ ￿M￿a ￿t￿p￿l￿o￿t￿l￿i￿b￿ ￿i￿f￿ ￿n￿e￿e￿d￿e￿d
+
+￿T￿k￿i￿n ￿t ￿e￿r￿ ￿/￿ ￿S￿t￿r ￿e￿a￿m￿l￿i￿t￿ ￿/￿ ￿F￿l￿a￿s￿k￿ ￿i￿f￿ ￿n￿e￿e￿d￿e￿d
+
+￿\x￿S ￿V￿ ￿/￿ ￿S￿Q￿L￿i￿t ￿e￿ ￿/￿ ￿M￿y￿S￿Q￿L￿ ￿i￿f￿ ￿d￿a ￿t ￿a￿b￿a￿s￿e￿ ￿u￿s￿e￿d
+
+￿5
+
+
+=== SLIDE 6 ===
+￿P￿R￿O￿P￿O￿S￿\E￿D￿ ￿S￿Y￿S￿T￿\E￿M
+
+￿O￿v ￿e￿r ￿v￿i￿e ￿w￿ ￿o￿f￿ ￿y ￿o￿u￿r￿ ￿p￿r ￿o￿p￿o￿s￿e￿d￿ ￿s￿o￿l￿u￿t￿i￿o￿n
+
+￿M￿a￿i￿n￿ ￿f ￿e￿a ￿t￿u￿r ￿e￿s￿ ￿i￿m￿p￿l￿e￿m￿e￿n ￿t ￿e￿d
+
+￿A￿d￿v ￿a￿n ￿t ￿a￿g ￿e￿s￿ ￿o ￿v ￿e￿r￿ ￿e ￿x￿i￿s ￿t￿i￿n￿g ￿/￿m￿a￿n￿u￿a￿l￿ ￿a￿p￿p￿r ￿o￿a￿c￿h
+
+￿U￿s￿e￿r￿ ￿b￿e￿n￿e ￿f￿i￿t￿s
+
+￿6
+
+
+=== SLIDE 7 ===
+￿S￿Y￿S￿T￿\E￿M￿  ￿A￿R￿C￿H￿I￿T￿\E￿C￿T￿U￿R￿\E
+
+￿I￿n￿s￿e￿r￿t￿ ￿a￿r ￿c￿h￿i￿t ￿e￿c￿t￿u￿r ￿e￿ ￿/￿ ￿b￿l￿o￿c￿k￿ ￿d￿i￿a￿g￿r ￿a￿m
+
+￿S￿h￿o ￿w￿ ￿m￿o￿d￿u￿l￿e￿s￿ ￿a￿n￿d￿ ￿d￿a ￿t ￿a￿ ￿f￿l￿o ￿w
+
+￿M￿e￿n ￿t￿i￿o￿n￿ ￿f￿r ￿o￿n ￿t ￿e￿n￿d￿,￿ ￿b￿a￿c￿k ￿e￿n￿d￿,￿ ￿d￿a ￿t ￿a￿b￿a￿s￿e￿/￿f￿i￿l￿e￿ ￿l￿a ￿y ￿e￿r￿ ￿i￿f￿ ￿a￿p￿p￿l￿i￿c ￿a￿b￿l￿e
+
+￿7
+
+
+=== SLIDE 8 ===
+￿M￿O￿D￿U￿L￿\E￿S￿ ￿I￿M￿P￿L￿\E￿M￿\E￿N￿T￿\E￿D
+
+￿M￿o￿d￿u￿l￿e
+
+￿P￿u￿r￿p￿o￿s￿e
+
+￿S￿t ￿a ￿t￿u￿s
+
+￿U￿s￿e￿r￿ ￿I￿n ￿t ￿e￿r￿f ￿a￿c￿e
+
+￿I￿n￿p￿u￿t￿ ￿f ￿o￿r￿m￿s￿ ￿/￿ ￿m￿e￿n￿u￿ ￿/￿ ￿s￿c￿r ￿e￿e￿n￿ ￿n￿a ￿v￿i￿g ￿a ￿t￿i￿o￿n
+
+￿\x￿o￿m￿p￿l￿e ￿t ￿e￿d
+
+￿P￿r ￿o￿c￿e￿s￿s￿i￿n￿g￿ ￿L￿o￿g￿i￿c
+
+￿\x￿o￿r ￿e￿ ￿a￿l￿g ￿o￿r￿i￿t￿h￿m￿ ￿a￿n￿d￿ ￿v ￿a￿l￿i￿d￿a ￿t￿i￿o￿n
+
+￿\x￿o￿m￿p￿l￿e ￿t ￿e￿d
+
+￿S￿t ￿o￿r ￿a￿g ￿e￿ ￿L￿a ￿y ￿e￿r
+
+￿F￿i￿l￿e￿s￿ ￿/￿ ￿d￿a ￿t ￿a￿b￿a￿s￿e￿ ￿t ￿a￿b￿l￿e￿s￿ ￿/￿ ￿d￿a ￿t ￿a￿s￿e ￿t
+
+￿\x￿o￿m￿p￿l￿e ￿t ￿e￿d
+
+￿O￿u￿t￿p￿u￿t￿ ￿M￿o￿d￿u￿l￿e
+
+￿R ￿e￿p￿o￿r￿t￿s￿,￿ ￿c￿h￿a￿r￿t￿s￿,￿ ￿r ￿e￿s￿u￿l￿t￿ ￿s￿c￿r ￿e￿e￿n
+
+￿\x￿o￿m￿p￿l￿e ￿t ￿e￿d
+
+￿8
+
+
+=== SLIDE 9 ===
+￿A￿L￿G￿O￿R￿I￿T￿H￿M￿ ￿/￿ ￿W￿O￿R￿K￿\F￿L￿O￿W
+
+￿S￿t ￿e￿p￿ ￿1￿:￿ ￿R ￿e￿a￿d￿ ￿i￿n￿p￿u￿t￿ ￿/￿ ￿c ￿o￿l￿l￿e￿c￿t￿ ￿d￿a ￿t ￿a
+
+￿S￿t ￿e￿p￿ ￿2￿:￿ ￿V ￿a￿l￿i￿d￿a ￿t ￿e￿ ￿a￿n￿d￿ ￿p￿r ￿o￿c￿e￿s￿s￿ ￿d￿a ￿t ￿a
+
+￿S￿t ￿e￿p￿ ￿3￿:￿ ￿A￿p￿p￿l￿y￿ ￿l￿o￿g￿i￿c￿ ￿/￿ ￿a￿l￿g ￿o￿r￿i￿t￿h￿m
+
+￿S￿t ￿e￿p￿ ￿4￿:￿ ￿S￿t ￿o￿r ￿e￿ ￿o￿r￿ ￿d￿i￿s￿p￿l￿a ￿y￿ ￿r ￿e￿s￿u￿l￿t
+
+￿S￿t ￿e￿p￿ ￿5￿:￿ ￿G￿e￿n￿e￿r ￿a ￿t ￿e￿ ￿f￿i￿n￿a￿l￿ ￿o￿u￿t￿p￿u￿t
+
+￿9
+
+
+=== SLIDE 10 ===
+￿D￿A ￿T ￿A￿B￿A￿S￿\E￿ ￿/￿ ￿\ ￿ ￿D￿\E￿S￿I￿G￿N
+
+￿T ￿a￿b￿l￿e￿/￿F￿i￿l￿e
+
+￿F￿i￿e￿l￿d￿s￿ ￿/￿ ￿\x￿o￿l￿u￿m￿n￿s
+
+￿P￿u￿r￿p￿o￿s￿e
+
+￿S￿t￿u￿d￿e￿n ￿t￿ ￿/￿ ￿U￿s￿e￿r￿ ￿/￿ ￿P￿r ￿o￿d￿u￿c￿t
+
+￿I￿D ￿,￿ ￿N￿a￿m￿e￿,￿ ￿\x￿a ￿t ￿e￿g ￿o￿r ￿y ￿,￿ ￿V ￿a￿l￿u￿e
+
+￿S￿t ￿o￿r ￿e￿s￿ ￿m￿a￿i￿n￿ ￿p￿r ￿o￿j￿e￿c￿t￿ ￿d￿a ￿t ￿a
+
+￿T ￿r ￿a￿n￿s￿a￿c￿t￿i￿o￿n￿ ￿/￿ ￿R ￿e￿s￿u￿l￿t
+
+￿I￿n￿p￿u￿t￿,￿ ￿O￿u￿t￿p￿u￿t￿,￿ ￿D￿a ￿t ￿e
+
+￿S￿t ￿o￿r ￿e￿s￿ ￿p￿r ￿o￿c￿e￿s￿s￿e￿d￿ ￿o￿u￿t￿p￿u￿t
+
+￿\x￿o￿n ￿f￿i￿g￿ ￿/￿ ￿D￿a ￿t ￿a￿s￿e ￿t
+
+￿P ￿a￿r ￿a￿m￿e ￿t ￿e￿r ￿s￿ ￿/￿ ￿R ￿e￿c ￿o￿r ￿d￿s
+
+￿S￿u￿p￿p￿o￿r￿t￿s￿ ￿p￿r ￿o￿g￿r ￿a￿m￿ ￿e ￿x ￿e￿c￿u￿t￿i￿o￿n
+
+￿1￿0
+
+
+=== SLIDE 11 ===
+￿I￿M￿P￿L￿\E￿M￿\E￿N￿T ￿A ￿T￿I￿O￿N￿ ￿S￿C￿R￿\E￿\E￿N￿S
+
+￿A￿d￿d￿ ￿s￿c￿r ￿e￿e￿n￿s￿h￿o￿t￿s￿ ￿o￿f￿ ￿i￿n￿p￿u￿t￿ ￿s￿c￿r ￿e￿e￿n￿ ￿/￿ ￿m￿e￿n￿u
+
+￿A￿d￿d￿ ￿s￿c￿r ￿e￿e￿n￿s￿h￿o￿t￿s￿ ￿o￿f￿ ￿p￿r ￿o￿c￿e￿s￿s￿i￿n￿g￿ ￿s ￿t ￿e￿p ￿s
+
+￿A￿d￿d￿ ￿o￿u￿t￿p￿u￿t￿ ￿s￿c￿r ￿e￿e￿n￿ ￿a￿n￿d￿ ￿r ￿e￿s￿u￿l￿t￿ ￿e ￿x￿p￿l￿a￿n￿a ￿t￿i￿o￿n
+
+￿S￿h￿o ￿w￿ ￿i￿m￿p￿o￿r￿t ￿a￿n ￿t￿ ￿c ￿o￿d￿e￿ ￿s￿n￿i￿p￿p￿e ￿t￿ ￿o￿n￿l￿y￿ ￿i￿f￿ ￿r ￿e￿q￿u￿i￿r ￿e￿d
+
+￿1￿1
+
+
+=== SLIDE 12 ===
+￿T￿\E￿S￿T￿I￿N￿G￿  ￿A￿N￿D￿ ￿V ￿A￿L￿I￿D￿A ￿T￿I￿O￿N
+
+￿T ￿e￿s ￿t￿ ￿I￿D
+
+￿I￿n￿p￿u￿t￿ ￿/￿ ￿A￿c￿t￿i￿o￿n
+
+￿E￿x￿p￿e￿c￿t ￿e￿d￿ ￿O￿u￿t￿p￿u￿t
+
+￿S￿t ￿a ￿t￿u￿s
+
+￿T ￿\x￿-￿0￿1
+
+￿V ￿a￿l￿i￿d￿ ￿i￿n￿p￿u￿t
+
+￿\x￿o￿r￿r ￿e￿c￿t￿ ￿o￿u￿t￿p￿u￿t
+
+￿P ￿a￿s￿s
+
+￿T ￿\x￿-￿0￿2
+
+￿I￿n ￿v ￿a￿l￿i￿d￿ ￿i￿n￿p￿u￿t
+
+￿E￿r￿r ￿o￿r￿ ￿m￿e￿s￿s￿a￿g ￿e￿ ￿/￿ ￿v ￿a￿l￿i￿d￿a ￿t￿i￿o￿n
+
+￿P ￿a￿s￿s
+
+￿T ￿\x￿-￿0￿3
+
+￿E￿m￿p ￿t￿y￿ ￿i￿n￿p￿u￿t
+
+￿H￿a￿n￿d￿l￿e￿d￿ ￿s￿a ￿f ￿e￿l￿y
+
+￿P ￿a￿s￿s
+
+￿T ￿\x￿-￿0￿4
+
+￿D￿a ￿t ￿a￿b￿a￿s￿e￿/￿f￿i￿l￿e￿ ￿o￿p￿e￿r ￿a ￿t￿i￿o￿n
+
+￿D￿a ￿t ￿a￿ ￿s￿a ￿v ￿e￿d￿/￿r ￿e ￿t￿r￿i￿e ￿v ￿e￿d
+
+￿P ￿a￿s￿s
+
+￿1￿2
+
+
+=== SLIDE 13 ===
+￿O￿U￿T￿P￿U￿T ￿  ￿A￿N￿D￿ ￿D￿\E￿M￿O￿ ￿P￿L￿A￿N
+
+￿S￿h￿o ￿w￿ ￿f￿i￿n￿a￿l￿ ￿w ￿o￿r￿k￿i￿n￿g￿ ￿m￿o￿d￿e￿l
+
+￿E￿x￿p￿l￿a￿i￿n￿ ￿u￿s￿e￿r￿ ￿f￿l￿o ￿w￿ ￿d￿u￿r￿i￿n￿g￿ ￿l￿i￿v ￿e￿ ￿d￿e￿m￿o
+
+￿H￿i￿g￿h￿l￿i￿g￿h ￿t￿ ￿t￿w ￿o￿ ￿o￿r￿ ￿t￿h￿r ￿e￿e￿ ￿i￿m￿p￿o￿r￿t ￿a￿n ￿t￿ ￿f ￿e￿a ￿t￿u￿r ￿e￿s
+
+￿M￿e￿n ￿t￿i￿o￿n￿ ￿d￿e￿m￿o￿ ￿d￿a ￿t ￿a￿ ￿u￿s￿e￿d
+
+￿1￿3
+
+
+=== SLIDE 14 ===
+￿I￿N￿D￿I￿V￿I￿D￿U￿A￿L ￿ ￿C￿O￿N￿T￿R￿I￿B￿U￿T￿I￿O￿N
+
+￿S￿t￿u￿d￿e￿n ￿t￿ ￿N￿a￿m￿e￿:￿ ￿R ￿e￿q￿u￿i￿r ￿e￿m￿e￿n ￿t￿ ￿a￿n￿a￿l￿y ￿s￿i￿s￿ ￿a￿n￿d￿ ￿d￿e￿s￿i￿g￿n
+
+￿S￿t￿u￿d￿e￿n ￿t￿ ￿N￿a￿m￿e￿:￿ ￿\x￿o￿d￿i￿n￿g￿ ￿a￿n￿d￿ ￿d￿a ￿t ￿a￿b￿a￿s￿e￿/￿f￿i￿l￿e￿ ￿h￿a￿n￿d￿l￿i￿n￿g
+
+￿S￿t￿u￿d￿e￿n ￿t￿ ￿N￿a￿m￿e￿:￿ ￿T ￿e￿s ￿t￿i￿n￿g￿ ￿a￿n￿d￿ ￿d￿o￿c￿u￿m￿e￿n ￿t ￿a ￿t￿i￿o￿n
+
+￿S￿t￿u￿d￿e￿n ￿t￿ ￿N￿a￿m￿e￿:￿ ￿P￿r ￿e￿s￿e￿n ￿t ￿a ￿t￿i￿o￿n￿ ￿a￿n￿d￿ ￿d￿e￿m￿o￿ ￿p￿r ￿e￿p￿a￿r ￿a ￿t￿i￿o￿n
+
+￿1￿4
+
+
+=== SLIDE 15 ===
+￿L￿\E￿A￿R￿N￿I￿N￿G￿ ￿O￿U￿T￿C￿O￿M￿\E￿S￿  ￿A￿N￿D￿ ￿C￿H￿A￿L￿L￿\E￿N￿G￿\E￿S
+
+￿L￿e￿a￿r￿n￿i￿n￿g￿ ￿O￿u￿t ￿c ￿o￿m￿e￿s
+
+￿A￿p￿p￿l￿i￿e￿d￿ ￿J￿a ￿v ￿a￿/￿P ￿y ￿t￿h￿o￿n￿ ￿p￿r ￿o￿g￿r ￿a￿m￿m￿i￿n￿g￿ ￿c ￿o￿n￿c￿e￿p ￿t￿s
+
+￿U￿n￿d￿e￿r ￿s ￿t ￿o￿o￿d￿ ￿p￿r ￿o￿j￿e￿c￿t￿ ￿d￿e￿s￿i￿g￿n￿ ￿a￿n￿d￿ ￿t ￿e￿s ￿t￿i￿n￿g
+
+￿I￿m￿p￿r ￿o ￿v ￿e￿d￿ ￿d￿e￿b￿u￿g ￿g￿i￿n￿g￿ ￿a￿n￿d￿ ￿d￿o￿c￿u￿m￿e￿n ￿t ￿a ￿t￿i￿o￿n￿ ￿s￿k￿i￿l￿l￿s
+
+￿\x￿h￿a￿l￿l￿e￿n￿g ￿e￿s￿ ￿F ￿a￿c￿e￿d
+
+￿S ￿y￿n ￿t ￿a ￿x￿/￿r￿u￿n ￿t￿i￿m￿e￿ ￿e￿r￿r ￿o￿r ￿s
+
+￿D￿a ￿t ￿a￿b￿a￿s￿e￿/￿f￿i￿l￿e￿ ￿c ￿o￿n￿n￿e￿c￿t￿i￿o￿n￿ ￿i￿s￿s￿u￿e￿s
+
+￿I￿n￿p￿u￿t￿ ￿v ￿a￿l￿i￿d￿a ￿t￿i￿o￿n￿ ￿a￿n￿d￿ ￿e ￿x ￿c￿e￿p ￿t￿i￿o￿n￿ ￿h￿a￿n￿d￿l￿i￿n￿g
+
+￿U￿I￿/ ￿o￿u￿t￿p￿u￿t￿ ￿f ￿o￿r￿m￿a ￿t ￿t￿i￿n￿g
+
+￿1￿5
+
+
+=== SLIDE 16 ===
+￿C￿O￿N￿C￿L￿U￿S￿I￿O￿N￿  ￿A￿N￿D￿ ￿\ ￿ ￿\E￿N￿H￿A￿N￿C￿\E￿M￿\E￿N￿T
+
+￿S￿u￿m￿m￿a￿r￿i￿z ￿e￿ ￿c ￿o￿m￿p￿l￿e ￿t ￿e￿d￿ ￿w ￿o￿r￿k
+
+￿M￿e￿n ￿t￿i￿o￿n￿ ￿k ￿e ￿y￿ ￿a￿c￿h￿i￿e ￿v ￿e￿m￿e￿n ￿t￿s
+
+￿L￿i￿s ￿t￿ ￿l￿i￿m￿i￿t ￿a ￿t￿i￿o￿n￿s￿ ￿h￿o￿n￿e￿s ￿t￿l￿y
+
+￿S￿u￿g ￿g ￿e￿s ￿t￿ ￿f￿u￿t￿u￿r ￿e￿ ￿i￿m￿p￿r ￿o ￿v ￿e￿m￿e￿n ￿t￿:￿ ￿G￿U￿I￿,￿ ￿d￿a ￿t ￿a￿b￿a￿s￿e￿,￿ ￿c￿l￿o￿u￿d￿ ￿d￿e￿p￿l￿o ￿y￿m￿e￿n ￿t￿,￿ ￿a￿n￿a￿l￿y ￿t￿i￿c￿s￿,￿ ￿o￿r￿ ￿m￿o￿b￿i￿l￿e￿ ￿a￿p￿p
+
+￿1￿6
+
+
+=== SLIDE 17 ===
+￿R￿\E￿\F￿\E￿R￿\E￿N￿C￿\E￿S
+
+￿O￿f ￿f￿i￿c￿i￿a￿l￿ ￿J￿a ￿v ￿a￿ ￿/￿ ￿P ￿y ￿t￿h￿o￿n￿ ￿d￿o￿c￿u￿m￿e￿n ￿t ￿a ￿t￿i￿o￿n
+
+￿T ￿e ￿x ￿t￿b￿o￿o￿k ￿s￿ ￿a￿n￿d￿ ￿c ￿o￿u￿r ￿s￿e￿ ￿m￿a ￿t ￿e￿r￿i￿a￿l￿s
+
+￿D￿a ￿t ￿a￿s￿e ￿t￿ ￿o￿r￿ ￿w ￿e￿b ￿s￿i￿t ￿e￿ ￿r ￿e ￿f ￿e￿r ￿e￿n￿c￿e￿s
+
+￿L￿i￿b￿r ￿a￿r￿i￿e￿s￿ ￿a￿n￿d￿ ￿t ￿o￿o￿l￿s￿ ￿u￿s￿e￿d
+
+￿1￿7
+
+
+=== SLIDE 18 ===
+￿T￿H￿A￿N￿K￿  ￿Y￿O￿U
+
+￿Q￿u￿e￿s ￿t￿i￿o￿n￿s￿ ￿a￿n￿d￿ ￿F ￿e￿e￿d￿b￿a￿c￿k
+
+￿1￿8
+
+
